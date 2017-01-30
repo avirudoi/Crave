@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Taste of London Font name and size Definitions -->
+<resources>
+
+	<!--Legacy font name and sizes-->
+	<string name="helper_font">Bradley_Hand_Bold.ttf</string>
+
+ 		
+</resources>

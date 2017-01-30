@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <GridView
+      android:id="@+id/gvPhotoGallery"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:verticalSpacing="2dp"
+      android:layout_margin="2dp"
+      android:horizontalSpacing="2dp"
+      android:numColumns="2">
+
+  </GridView>
+
+  <LinearLayout
+      android:id="@+id/llEmpty"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:gravity="center"
+      android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="20dp"
+        android:src="@mipmap/ic_no_icon"/>
+
+    <TextView
+        android:id="@+id/tvEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:text="No saved Restaurants. Browse and swipe right to save new restaurants for 24 hours."
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btBrowse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Browse"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        android:background="#DC3C04"/>
+
+
+  </LinearLayout>
+
+
+</LinearLayout>

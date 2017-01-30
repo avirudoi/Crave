@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Crave</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">247392435642078</string>
+    <string name="firebase_url">https://crave-35d82.firebaseio.com/</string>
+    <string name="user_ref">https://crave-35d82.firebaseio.com/users</string>
+
+    <string name="client_token">799de49b357b77afede08488ced2f721</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="GPSAlertDialogTitle">GPSAlertDialogTitle</string>
+    <string name="GPSAlertDialogMessage">GPSAlertDialogMessage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="profile_activity_class">Class name placeholder</string>
+    <string name="activity_load_error">Sorry, we are unable to display this screen. Please try after some time.</string>
+    <string name="My_Profile">My Profile</string>
+    <string name="Favorite">Favorite</string>
+    <string name="helper">Helper</string>
+    <string name="LOG_OUT">LOG OUT</string>
+    <string name="connect_with_email">Connect with Email</string>
+    <string name="login_with_facebook">Connect with Facebook</string>
+
+    <string name="android_location_permission">We need access to your location to use this feature. Tap OK to go to settings and enable permissions.</string>
+    <string name="location_permission">Location permission</string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyApMKOLz5p40Rbwlo-oWOZvRJMOFIZ0dBE</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password should be at least 6 characters long and not contain spaces in it.</string>
+
+
+    <string name="helper_text_left">Swipe food left to\n Toss it</string>
+
+    <string name="terms">By using this application, you agree to our\n Terms of Service and Privacy Policy</string>
+
+
+</resources>
+

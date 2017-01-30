@@ -1,0 +1,41 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Tool bar (Action Bar) -->
+    <dimen name="toolbar_height">55dp</dimen>
+
+    <!-- Navigation Drawer  -->
+    <dimen name="nav_drawer_header_height">160dp</dimen>
+    <dimen name="nav_drawer_header_top_margin">10dp</dimen>
+    <dimen name="nav_drawer_header_image_top_padding">3dp</dimen>
+    <dimen name="nav_drawer_header_image_width">80dp</dimen>
+    <dimen name="nav_drawer_header_image_height">80dp</dimen>
+    <dimen name="nav_drawer_header_user_name_top_padding">10dp</dimen>
+    <dimen name="nav_drawer_header_user_name_font_size">20sp</dimen>
+    <dimen name="nav_drawer_header_phone_number_font_size">17sp</dimen>
+    <dimen name="nav_drawer_header_line_height">2dp</dimen>
+    <dimen name="nav_drawer_header_line_top_margin">5dp</dimen>
+    <dimen name="nav_drawer_item_my_profile_top_padding">32dp</dimen>
+    <dimen name="nav_drawer_item_activate_service_top_padding">16dp</dimen>
+    <dimen name="nav_drawer_item_horiz_line_width">16dp</dimen>
+    <dimen name="nav_drawer_item_horiz_line_height">2dp</dimen>
+    <dimen name="nav_drawer_item_horiz_line_left_margin">@dimen/activity_horizontal_margin</dimen>
+    <dimen name="nav_drawer_item_horiz_line_right_margin">1dp</dimen>
+    <dimen name="nav_drawer_item_font_size">23sp</dimen>
+    <dimen name="nav_drawer_logout_line_height">2dp</dimen>
+    <dimen name="nav_drawer_logout_line_top_padding">16dp</dimen>
+    <dimen name="nav_drawer_logout_line_bottom_padding">16dp</dimen>
+    <dimen name="nav_drawer_logout_line_left_margin">@dimen/activity_horizontal_margin</dimen>
+    <dimen name="nav_drawer_item_logout_top_padding">16dp</dimen>
+    <dimen name="nav_drawer_item_logout_bottom_padding">48dp</dimen>
+    <dimen name="nav_drawer_item_logout_left_padding">@dimen/activity_horizontal_margin</dimen>
+    <dimen name="nav_drawer_item_logout_font_size">20sp</dimen>
+
+    <dimen name="three_grid_unit">24dp</dimen>
+    <dimen name="one_and_a_half_grid_unit">12dp</dimen>
+    <!-- -->
+</resources>
+
